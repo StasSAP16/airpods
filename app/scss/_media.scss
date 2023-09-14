@@ -252,6 +252,11 @@
     .title {
         transform: translate(53px, -17px);
     }
+    .header{
+        &__top{
+            flex-wrap: wrap;
+        }
+    } 
 }
 
 
